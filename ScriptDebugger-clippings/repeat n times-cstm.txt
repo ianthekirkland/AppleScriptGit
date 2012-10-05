@@ -1,0 +1,5 @@
+----- repeat [[template:<number>]] times -----
+repeat [[template:loopCount]] times
+	[[template:-- your code goes here]]
+end repeat
+

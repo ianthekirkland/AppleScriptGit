@@ -1,0 +1,5 @@
+----- [[template:do <action>]] while [[template:<condition>]] -----
+repeat while [[template:expression]]
+	[[template:-- your code goes here]]
+end repeat
+

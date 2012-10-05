@@ -1,0 +1,1 @@
+{[[template:value1]], [[template:value2]], [[template:value3]]}

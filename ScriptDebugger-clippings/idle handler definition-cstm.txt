@@ -1,0 +1,7 @@
+----------- on idle, [[template:title]] ------------
+on idle
+	[[template:-- your code goes here]]
+
+	return [[template:idleInterval]] -- in seconds
+end idle
+

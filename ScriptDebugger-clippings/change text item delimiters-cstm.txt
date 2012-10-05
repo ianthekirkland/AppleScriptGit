@@ -1,0 +1,7 @@
+------------- text item delimiters = "," ----------
+set originalTID to AppleScript's text item delimiters
+set AppleScript's text item delimiters to {"[[template:,]]"}
+[[selected-lines:-- your code goes here]]
+set AppleScript's text item delimiters to originalTID
+[[template:--]] set AppleScript's text item delimiters to {""} -- <---{ default }
+

@@ -1,0 +1,7 @@
+----------- on opening [[template:<items>]], [[template:do <action>]] ------------
+on open of [[template:theFiles]]
+	--	Executed when files are dropped on the script
+
+	[[template:-- your code goes here]]
+end open
+

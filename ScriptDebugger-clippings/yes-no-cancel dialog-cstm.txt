@@ -1,0 +1,12 @@
+try
+	set dialogAnswer to display dialog ¬
+		[[template:"Your Question Goes Here"]] buttons {"Yes", "No", "Cancel"} ¬
+		default button "Yes"
+	if button returned of dialogAnswer is "Yes" then
+		[[selected-lines:-- your code for Yes goes here]]
+	else
+		[[template:-- your code for No goes here]]
+	end if
+on error number -128 -- userCanceledErr
+	[[template:-- your code for Cancel goes here]]
+end try

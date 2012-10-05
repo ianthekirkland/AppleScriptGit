@@ -1,0 +1,14 @@
+script [[template:scriptName]]
+	property [[template:property1]] : [[template:"property1 value"]]
+	property [[template:property2]] : [[template:"property2 value"]]
+	property [[template:property3]] : [[template:"property3 value"]]
+
+	---------------------------------------------------------------
+	
+	on [[template:handler]]([[template:param1]], [[template:param2]], [[template:param3]])
+
+		[[selected-lines:-- your code goes here]]
+
+	end
+end script
+

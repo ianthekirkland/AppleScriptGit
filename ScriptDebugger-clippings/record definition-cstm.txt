@@ -1,0 +1,2 @@
+{[[template:field1]]:[[template:value1]], [[template:field2]]:[[template:value2]], [[template:field3]]:[[template:value3]]}
+[[selected-lines]]

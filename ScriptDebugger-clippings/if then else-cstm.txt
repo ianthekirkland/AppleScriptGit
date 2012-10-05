@@ -1,0 +1,7 @@
+----- if [[template:<condition>]] then... -----
+if [[template:expression]] then
+	[[template:-- do something]]
+else
+	[[template:-- do something else]]
+end if
+

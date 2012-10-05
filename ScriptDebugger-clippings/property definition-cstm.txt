@@ -1,0 +1,2 @@
+property [[template:propertyName]] : [[template:propertyValue]]
+[[selected-lines]]

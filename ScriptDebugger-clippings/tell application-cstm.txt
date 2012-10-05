@@ -1,0 +1,5 @@
+----- [[template:do <action>]] -----
+tell application "[[template:Finder]]"
+	[[template:-- do something]]
+end
+

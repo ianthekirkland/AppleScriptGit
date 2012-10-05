@@ -1,0 +1,5 @@
+----- for each [[template:<item>]] in range from [[template:<pointA>]] to [[template:<pointB>]], [[template:do <action>]] -----
+repeat with [[template:item_x]] from [[template:firstItem]] to [[template:lastItem]]
+	[[template:-- your code goes here]]
+end repeat
+

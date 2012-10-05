@@ -1,0 +1,5 @@
+----------------------- ignoring… -----------------------
+ignoring [[template:case, white space, diacriticals, hyphens, expansion, punctuation, application responses]]
+	[[template:-- your code goes here]]
+end ignoring
+

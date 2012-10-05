@@ -1,0 +1,6 @@
+----- for each [[template:<item>]] in the list "[[template:myList]]", [[template:do <action>]] -----
+[[template:-- set myList to mySel]]
+repeat with [[template:item_x] in [[template:myList]]
+	[[template:-- your code goes here]]
+end repeat
+

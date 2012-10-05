@@ -1,0 +1,7 @@
+----------------------- subr: [[template:title]] -----------------------
+on [[template:handlerName]]([[template::param1]], [[template:param2]], [[template:param3]])
+	[[template:-- your code goes here]]
+	
+	return [[template:returnValue]]
+end
+

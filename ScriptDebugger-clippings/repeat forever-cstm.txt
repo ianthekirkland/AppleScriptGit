@@ -1,0 +1,7 @@
+----- [[template:do <action>]] until [[template:<condition>]] -----
+repeat
+	[[template:-- keep doing something]]
+	
+	exit repeat [[template:--…when <condition> is met]]
+end repeat
+

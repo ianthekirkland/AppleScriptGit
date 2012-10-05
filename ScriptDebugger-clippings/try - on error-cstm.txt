@@ -1,0 +1,10 @@
+-----
+try
+	[[selected-lines:-- do something]]
+on error errMsg number errNum
+	[[template:-- your error handler code goes here]]
+	[[template:-- ]]beep
+	[[template:-- ]]display dialog "Error:" & errMsg & errNum
+end try
+-----
+

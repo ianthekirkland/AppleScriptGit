@@ -1,0 +1,7 @@
+----- when this script runs [[template:do <action>]] -----
+on run
+	-- Executed when the script is launched
+
+	[[selected-lines:-- your code goes here]]
+end run
+

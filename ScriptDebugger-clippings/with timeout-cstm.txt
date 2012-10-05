@@ -1,0 +1,5 @@
+----- do [[template:<action>]] within N seconds -----
+with timeout of [[template:numSeconds]] seconds
+	[[selected-lines:-- do something]]
+end timeout
+

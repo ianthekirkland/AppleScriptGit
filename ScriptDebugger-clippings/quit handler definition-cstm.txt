@@ -1,0 +1,9 @@
+----------- on quit, [[template:title]] ------------
+on quit
+	--	Executed when the script quits
+
+	[[template:-- your code goes here]]
+
+	continue quit -- allows the script to quit
+end quit
+
